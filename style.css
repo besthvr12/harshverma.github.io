@@ -1,0 +1,104 @@
+
+$primary-overlay:rgba(50,40,16,0.8);
+body{
+	background:#123C69;
+	color:#FFFFFF;
+     
+}
+.navbar{
+    
+	text-decoration-color: #FFFFFF
+	opacity:0.5;
+}
+#Harsh{
+	font-size: 30px;
+    color:aliceblue;
+    font-style: italic;
+  
+}
+#home{
+    position:relative;
+    background: url('https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg');
+    min-height:600px;
+
+    
+.primary-overlay{
+        background: $primary-overlay;
+        position:absolute;
+        top:0;
+        left:0;
+        width: 100%;
+        height: 100%;
+    }
+    
+    
+}
+#myself{
+    animation-delay: 1s;
+    animation-duration: 2s;
+}
+#about{
+    background-color: #9099A2;
+    animation-delay: 0s;
+    animation-duration: 2s;
+  
+}
+
+#CBSE{
+border: 2px black solid;}
+#pro{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+#My{
+    animation-delay: 0s;
+    animation-duration: 2s;
+}
+#k{
+    color: black;
+}
+#Myself{
+   text-align: center;
+}
+#Skills{
+    background-color: #9099A2;
+    animation-delay: 0s;
+    animation-duration: 2s;
+}
+.ka{
+    margin-left: auto;
+    margin-right: auto;
+}
+#courses{
+     animation-delay: 0s;
+    animation-duration: 2s;
+}
+#footer{
+    background-color: #9099A2;
+}
+.fa-facebook {
+  color: black;
+}
+.fa-facebook {
+  color: #2134D7;
+}
+.fa-instagram {
+  color: #3044F3;
+}
+.fa-github {
+  color: purple;
+}
+.fa-school {
+  color: black;
+}
+#foot{
+    color: #030303
+}
+#a{
+    margin-right: auto;
+}
+#ab{
+    margin-top: auto;
+    margin-bottom: auto;
+}
