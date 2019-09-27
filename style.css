@@ -19,6 +19,9 @@ body{
 #home{
     position:relative;
     background: url('https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg');
+    background-size: cover;
+   background-attachment: fixed;;
+   background-repeat: no-repeat;
     min-height:600px;
 
     
