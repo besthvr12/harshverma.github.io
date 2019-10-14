@@ -16,6 +16,11 @@ body{
     font-style: italic;
   
 }
+#as{
+    margin-left: auto;
+    margin-top:auto;
+    font-size: 40px;
+}
 #home{
     position:relative;
     background: url('https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg');
